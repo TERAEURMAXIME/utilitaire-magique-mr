@@ -1,0 +1,11 @@
+/build
+/dist
+compile.bat
+icone.ico
+Install_Utility_Manager.exe
+README_COMPILATION.md
+setup_inno.iss
+utility_config.json
+UtilityManager.pyw
+UtilityManager.spec
+VencordInstaller.exe
